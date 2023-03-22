@@ -1,0 +1,11 @@
+/build 
+/logs
+/devel
+*.logs
+*.vscode
+*.catkin_tools
+/**/build/
+/**/.vscode/
+/**/devel/
+/**/logs/
+/**/.catkin_tools/
